@@ -1,1 +1,3 @@
-public class void£¨£©{}
+public class void£¨£©{
+
+string=null£º}
